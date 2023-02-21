@@ -1,0 +1,12 @@
+{"emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+},
+"emmet.syntaxProfiles": {
+    "javascript": "jsx"
+}
+}
+
+// 2022: Straightforward way to add JSX/HTML autocomplete for .js files in React projects...
+
+// First, open VSCode's settings.json. To open settings.json, press Ctrl + , (or Cmd+, on Mac), then click the Open JSON button shown below. Optionally, if you don't want to set this globally, you can create a .vscode/settings.json file at the project root.
+

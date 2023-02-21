@@ -1,0 +1,3 @@
+open cmd 
+after each edit run the command 
+D:\JavaScript\image-gallery>npm run watch:css
